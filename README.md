@@ -2,12 +2,13 @@
 Just some tools for shadow
 
 
-https://www.python.org/downloads/
-https://rustup.rs
-https://symless.com/synergy
-https://vpn.net
-https://brave.com
-https://www.tampermonkey.net
+https://www.python.org/downloads/  
+https://rustup.rs  
+https://symless.com/synergy  
+https://vpn.net  
+https://brave.com   
+https://www.tampermonkey.net  
+https://github.com/EloiStree/2024_05_11_GateIID_WS_Python  
 
 `pip list -v`
 
